@@ -1,0 +1,3 @@
+"scripts" : [
+"../node_modules/hammerjs/hammer.min.js"
+]
